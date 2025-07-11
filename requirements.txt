@@ -1,6 +1,6 @@
 polars
 numpy
-dlthub
+dlt[duckdb]
 pyspark
 duckdb
 dagster
@@ -9,3 +9,4 @@ dbt-core
 dbt-duckdb
 streamlit
 plotly
+alpaca-trade-api
