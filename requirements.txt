@@ -1,0 +1,11 @@
+polars
+numpy
+dlthub
+pyspark
+duckdb
+dagster
+dagit
+dbt-core
+dbt-duckdb
+streamlit
+plotly
