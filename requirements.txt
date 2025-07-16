@@ -5,8 +5,11 @@ pyspark
 duckdb
 dagster
 dagit
+dagster-duckdb
+dagster-pyspark
 dbt-core
 dbt-duckdb
 streamlit
 plotly
 alpaca-trade-api
+python-dotenv
